@@ -320,7 +320,7 @@ Tested against **35 ground-truth cases** derived from the official *Standard Bha
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/multilingual-braille-converter.git
+git clone https://github.com/Hardik-369/multilingual-braille-converter.git
 cd multilingual-braille-converter
 ```
 
